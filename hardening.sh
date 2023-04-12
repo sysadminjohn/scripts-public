@@ -1,3 +1,5 @@
+# Just a placeholder and notes for a future script
+
 echo integrity > /sys/kernel/security/lockdown
 sysctl -w kernel.kexec_load_disabled=1
 sysctl -w kernel.kptr_restrict=2
